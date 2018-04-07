@@ -1,5 +1,7 @@
 {
   "name": "shadowcat",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "metismenu": "^2.7.4"
+  }
 }
